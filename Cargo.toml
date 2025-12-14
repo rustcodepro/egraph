@@ -2,6 +2,7 @@
 name = "egraph"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 authors = ["Gaurav Sablok <codeprog@icloud.com>"]
 description = "egraph for variant machine learning"
 homepage = "https://github.com/rustcodepro/egraph"
